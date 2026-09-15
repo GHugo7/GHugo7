@@ -66,6 +66,16 @@ Je construis surtout des choses qui tournent en continu : serveurs, bots, mods e
 
 ---
 
+### Projets en équipe
+
+| Projet | Description | Stack |
+|---|---|---|
+| **[ÉnYgmes](https://github.com/LouLFBV/Challenge-48h-2026)** | Plateforme de jeux et énigmes cyber — Challenge Ynov, 8 développeurs en 48h | PHP, MySQL |
+| **[Java-MiniGames](https://github.com/Antho-3387/Java-MiniGames)** | Collection de mini-jeux : Snake, Flappy Bird, quiz | Java, JavaFX |
+<!--| **[BlackMarket](https://github.com/PierreBDL/BlackMarketJavaFx)** | Simulation de boutique de jeux vidéo, architecture MVC et POO | Java 21, JavaFX | -->
+
+---
+
 ### Statistiques
 
 <p align="center">
